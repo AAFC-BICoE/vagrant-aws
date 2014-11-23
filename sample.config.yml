@@ -1,0 +1,5 @@
+# Copy this file to config.yml and insert you 
+# aws access_key_id and secret_access_key below
+aws:
+    access_key_id: "<aws.access_key_id>"
+    secret_access_key: "<aws.secret_access_key>"
